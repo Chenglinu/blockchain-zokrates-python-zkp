@@ -14,3 +14,5 @@ Put the download file to the same name folder.
 3.Fill in the zokrates environment path into ./configure.txt. The path can be seen after intsall zokrates.
 
 4.Needed python3 inculde: flask, tqdm
+
+5.python main.py to start the blockchain; edit demo.py or python demo.py to register asset and auth on your local pc.
