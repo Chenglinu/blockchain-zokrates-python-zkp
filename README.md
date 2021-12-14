@@ -9,10 +9,8 @@ Need download from link：https://pan.baidu.com/s/1SlkRlB_a3ww-Qa5LiaGhew
            downloadcode：0126 
 Put the download file to the same name folder.
 
-2.
-Deploy the zokrates environment. One-line installation
- one-line installation for Linux, MacOS and FreeBSD:
-curl -LSfs get.zokrat.es | sh
+2.Deploy the zokrates environment. One-line installationone-line installation for Linux, MacOS and FreeBSD:
+           curl -LSfs get.zokrat.es | sh
 
 3.Fill in the zokrates environment path into ./configure.txt. The path can be seen after intsall zokrates.
 
