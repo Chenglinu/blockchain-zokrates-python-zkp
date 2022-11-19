@@ -5,7 +5,7 @@ import hashlib
 
 print(hashlib.sha256(bytes.fromhex('00'*64)).hexdigest())
 print(hex(598131070598017688943079664))
-
+print()
 
 # f8ef52f74e048b1a5dc9f5b07edfeaefa41229eb4d433442bf24716ea8c2855a
 # b9709b2cd8ac273592343207c3c7ba8b64840d4a7bc2e0e9917476b308fc924a
